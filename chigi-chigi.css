@@ -1,0 +1,8 @@
+div {
+  background-color: red;
+}
+.red {
+  color: aqua;
+  margin: 50px;
+  border: 20px solid red;
+}
